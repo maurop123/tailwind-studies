@@ -1,5 +1,8 @@
 # tarot-site
 
+Tailwind installed like this: https://tailwindcss.com/docs/guides/nuxtjs
+Google fonts added like this: https://www.zemna.net/articles/how-to-load-google-font-in-nuxtjs-with-tailwindcss/
+
 ## Build Setup
 
 ```bash
