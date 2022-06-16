@@ -1,13 +1,16 @@
 export default {
+  /* Git Pages publishing code */
   generate: {
     dir: 'docs',
   },
-  
+  target: 'static',
+  router: {
+    base: '/my-site/',
+  },
+  /**/
+
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
   ssr: false,
-
-  // Target: https://go.nuxtjs.dev/config-target
-  target: 'static',
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
