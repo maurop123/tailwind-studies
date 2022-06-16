@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'tarot-site',
+    title: 'maurop123',
     htmlAttrs: {
       lang: 'en'
     },
@@ -29,6 +29,7 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    '~plugins/fontAwesome',
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
@@ -37,14 +38,14 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     '@nuxt/postcss8',
-    "@nuxtjs/google-fonts"
+    "@nuxtjs/google-fonts",
   ],
 
   googleFonts: {
     display: "swap",
     families: {
-      Montserrat: {
-        wght: [400]
+      Poppins: {
+        wght: [900]
       }
     }
   },

@@ -3,6 +3,11 @@
 Tailwind installed like this: https://tailwindcss.com/docs/guides/nuxtjs
 Google fonts added like this: https://www.zemna.net/articles/how-to-load-google-font-in-nuxtjs-with-tailwindcss/
 
+## Dev Log
+
+setup fontawesome using https://fontawesome.com/docs/web/use-with/vue/
+Learn how to make nuxt plugins
+
 ## Build Setup
 
 ```bash
