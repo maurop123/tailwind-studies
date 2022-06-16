@@ -1,12 +1,17 @@
 # tarot-site
 
+## Dev Log
+
+Add Fontawesome icons using https://fontawesome.com/docs/web/use-with/vue/
+Learn how to make nuxt plugins
+Figure out vertical centering w Tailwind
+
+6/15
+
 Tailwind installed like this: https://tailwindcss.com/docs/guides/nuxtjs
 Google fonts added like this: https://www.zemna.net/articles/how-to-load-google-font-in-nuxtjs-with-tailwindcss/
 
-## Dev Log
-
-setup fontawesome using https://fontawesome.com/docs/web/use-with/vue/
-Learn how to make nuxt plugins
+6/14
 
 ## Build Setup
 
