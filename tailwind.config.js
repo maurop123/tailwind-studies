@@ -12,6 +12,11 @@ module.exports = {
   ],
   theme: {
     extend: {
+      color: {
+        'aqua-blue': '#1AF0CF',
+        'pop-pink': '#F01AF0',
+        'mustard-yellow': '#F0BD02',
+      },
       fontFamily: {
         'sans': ['Poppins', ...defaultTheme.fontFamily.sans],
       },
