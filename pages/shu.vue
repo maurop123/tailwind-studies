@@ -5,7 +5,7 @@
                 class="w-44 h-44 rounded-full drop-shadow-md mb-5"
             />
             <h2 class="text-xl">
-                Vue Dev since 2016
+                <!-- tagline -->
             </h2>
         </div>
         <h1 class="mx-auto mb-7 text-5xl hover:text-sky-400/100">
@@ -13,7 +13,8 @@
             <a href="https://github.com/maurop123"
               class="font-sans hover:italic underline"
             >
-                maurop123
+                            <!-- youtube -->
+
             </a>
         </h1>
         <h2 class="mx-auto mb-5 text-4xl hover:text-sky-400/100">
@@ -21,8 +22,11 @@
             <a href="https://www.linkedin.com/in/mauro-perez-25634111/"
               class="font-sans hover:italic underline"
             >
-                Mauro Perez
             </a>
         </h2>
+
+        <!-- Soundcloud -->
+
     </div>
+                            <!-- solr index -->
 </template>
